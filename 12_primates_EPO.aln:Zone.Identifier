@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.ensembl.org/Homo_sapiens/Location/Compara_Alignments?align=1944;db=core;g=ENSG00000213934;r=11:5247669-5249500
+HostUrl=https://www.ensembl.org/Homo_sapiens/Download/DataExport?align=1944;cdb=compara;component=Compara_Alignments;compression=uncompressed;data_action=;data_type=Location;db=core;export_action=TextAlignments;file=temporary/2021_03_24/session_224975711/MBNYVITKUXGfQCQNWcAAAbJL/12_primates_EPO.aln;filename=12_primates_EPO.aln;format=CLUSTALW;g=ENSG00000213934;name=12_primates_EPO;r=11:5247669-5249500
